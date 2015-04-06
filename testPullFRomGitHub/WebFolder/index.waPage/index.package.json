@@ -1,1 +1,29 @@
-{	"name": "testPullFRomGitHub/index.waPage/index.html",	"version": "1.0.0",	"loadDependencies": [		{			"package": "default"		},		{			"file": "styles/index.css"		},		{			"id": "application.css",			"path": "WEBFOLDER"		}	]}
+{
+	"name": "testPullFRomGitHub/index.waPage/index.html",
+	"version": "1.0.0",
+	"loadDependencies": [
+		{
+			"id": "Desktop_Core",
+			"version": "1.0.0",
+			"type": "core"
+		},
+		{
+			"id": "application.css",
+			"path": "WEBFOLDER"
+		},
+		{
+			"package": "default"
+		},
+		{
+			"package": "Button"
+		},
+		{
+			"file": "styles/index.css"
+		},
+		{
+			"file": "application.css",
+			"path": "WEBFOLDER"
+		}
+	],
+	"type": "page"
+}
